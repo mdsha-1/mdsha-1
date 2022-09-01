@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am in learning phase, So the code may not be optimized and uploaded yet!
+
 <!--
 **mdsha-1/mdsha-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
